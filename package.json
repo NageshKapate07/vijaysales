@@ -1,0 +1,22 @@
+{
+  "name": "vijaysales",
+  "version": "1.0.0",
+  "description": "This is Simple vijay sales online shopping application",
+  "main": " ",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NageshKapate07/vijaysales.git"
+  },
+  "author": "Nagesh Kapate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NageshKapate07/vijaysales/issues"
+  },
+  "homepage": "https://github.com/NageshKapate07/vijaysales#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
